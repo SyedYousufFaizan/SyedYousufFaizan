@@ -129,30 +129,6 @@ AI-powered contract analysis app using **Mistral LLM APIs** to parse PDF/DOCX/TX
 
 <br/>
 
-## 📋 SEASON SUMMARY - EXPERIENCE
-
-<table>
-<tr><th>Round</th><th>Team</th><th>Result</th></tr>
-<tr>
-<td valign="top"><b>Dec 2023 –<br/>Aug 2024</b></td>
-<td valign="top">Full Stack & AI Developer<br/><i>Freelance · Remote</i></td>
-<td>
-Built a client-facing platform (React, Node.js, Tailwind) with third-party API + CMS integration.<br/>
-🏁 <b>80+ Lighthouse</b> performance score
-</td>
-</tr>
-<tr>
-<td valign="top"><b>2024</b></td>
-<td valign="top">Full Stack Developer<br/><i>Asoca Labs (Robotics) · Remote</i></td>
-<td>
-Built a motion-driven platform (React, Three.js, GSAP) for a robotics brand, full SEO/GEO implementation.<br/>
-🏁 <b>SEO score 83</b> · <b>+64% organic traffic</b>
-</td>
-</tr>
-</table>
-
-<br/>
-
 ## 📡 TELEMETRY - GITHUB STATS
 
 <div align="center">
