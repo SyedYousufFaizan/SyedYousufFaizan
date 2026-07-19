@@ -48,41 +48,41 @@ I've sat directly with clients: scoping, building solutions, and bringing it hom
 
 **🔋 GEN AI**
 
-![LangChain](https://img.shields.io/badge/LangChain-15151E?style=flat-square&logo=langchain&logoColor=E10600)
-![LangGraph](https://img.shields.io/badge/LangGraph-15151E?style=flat-square&logoColor=E10600)
-![RAG](https://img.shields.io/badge/RAG-15151E?style=flat-square&logoColor=E10600)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-15151E?style=flat-square&logoColor=E10600)
-![Multimodal AI](https://img.shields.io/badge/Multimodal_AI_(VLMs)-15151E?style=flat-square&logoColor=E10600)
+![LangChain](https://img.shields.io/badge/LangChain-15151E?style=for-the-badge&logo=langchain&logoColor=E10600)
+![LangGraph](https://img.shields.io/badge/LangGraph-15151E?style=for-the-badge&logoColor=E10600)
+![RAG](https://img.shields.io/badge/RAG-15151E?style=for-the-badge&logoColor=E10600)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-15151E?style=for-the-badge&logoColor=E10600)
+![Multimodal AI](https://img.shields.io/badge/Multimodal_AI_(VLMs)-15151E?style=for-the-badge&logoColor=E10600)
 
 **🏗️ LANGUAGES**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-15151E?style=flat-square&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-15151E?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-15151E?style=flat-square&logo=python&logoColor=3776AB)
+![TypeScript](https://img.shields.io/badge/TypeScript-15151E?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-15151E?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-15151E?style=for-the-badge&logo=python&logoColor=3776AB)
 
 **🪶 FRONTEND**
 
-![React](https://img.shields.io/badge/React-15151E?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-15151E?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-15151E?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![Three.js](https://img.shields.io/badge/Three.js-15151E?style=flat-square&logo=threedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-15151E?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-15151E?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-15151E?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Three.js](https://img.shields.io/badge/Three.js-15151E?style=for-the-badge&logo=threedotjs&logoColor=white)
 
 **⚙️ BACKEND**
 
-![Node.js](https://img.shields.io/badge/Node.js-15151E?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-15151E?style=flat-square&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-15151E?style=flat-square&logoColor=E10600)
-![GraphQL](https://img.shields.io/badge/GraphQL-15151E?style=flat-square&logo=graphql&logoColor=E10098)
+![Node.js](https://img.shields.io/badge/Node.js-15151E?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-15151E?style=for-the-badge&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-15151E?style=for-the-badge&logoColor=E10600)
+![GraphQL](https://img.shields.io/badge/GraphQL-15151E?style=for-the-badge&logo=graphql&logoColor=E10098)
 
 **🛠️ DEVOPS**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-15151E?style=flat-square&logo=mongodb&logoColor=47A248)
-![Azure](https://img.shields.io/badge/Azure-15151E?style=flat-square&logo=microsoftazure&logoColor=0078D4)
-![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-15151E?style=flat-square&logo=cloudflare&logoColor=F38020)
-![Modal](https://img.shields.io/badge/Modal_GPU-15151E?style=flat-square&logoColor=E10600)
-![Vercel](https://img.shields.io/badge/Vercel-15151E?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-15151E?style=flat-square&logo=render&logoColor=46E3B7)
-![GitHub Actions](https://img.shields.io/badge/CI/CD-15151E?style=flat-square&logo=githubactions&logoColor=2088FF)
+![MongoDB](https://img.shields.io/badge/MongoDB-15151E?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Azure](https://img.shields.io/badge/Azure-15151E?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
+![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-15151E?style=for-the-badge&logo=cloudflare&logoColor=F38020)
+![Modal](https://img.shields.io/badge/Modal_GPU-15151E?style=for-the-badge&logoColor=E10600)
+![Vercel](https://img.shields.io/badge/Vercel-15151E?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-15151E?style=for-the-badge&logo=render&logoColor=46E3B7)
+![GitHub Actions](https://img.shields.io/badge/CI/CD-15151E?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 
 </div>
 
