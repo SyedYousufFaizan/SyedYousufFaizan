@@ -8,14 +8,14 @@
 
 # 🏎️ SYED YOUSUF FAIZAN
 
-### `#01` FULL STACK DEVELOPER — AI-INTEGRATED PRODUCT ENGINEERING
+###  FULL STACK DEVELOPER — GEN-AI ENGINEERING
 
 *Lights out and away we go — I own features end-to-end: brief, build, deploy, chequered flag.*
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/PIT_WALL-LinkedIn-15151E?style=for-the-badge&logo=linkedin&logoColor=E10600)](https://linkedin.com/in/your-handle)
-[![Portfolio](https://img.shields.io/badge/GARAGE-Portfolio-15151E?style=for-the-badge&logo=vercel&logoColor=E10600)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/PIT_WALL-LinkedIn-15151E?style=for-the-badge&logo=linkedin&logoColor=E10600)](https://linkedin.com/in/syedyousuffaizan
+[![Portfolio](https://img.shields.io/badge/GARAGE-Portfolio-15151E?style=for-the-badge&logo=vercel&logoColor=E10600)](https://yousuffaizan.com)
 [![Email](https://img.shields.io/badge/RADIO-Email-15151E?style=for-the-badge&logo=gmail&logoColor=E10600)](mailto:syedyousuffaizan@gmail.com)
 
 </div>
