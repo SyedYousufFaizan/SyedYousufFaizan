@@ -6,15 +6,13 @@
 
 <br/>
 
-# 🏎️ SYED YOUSUF FAIZAN
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=2600&pause=900&color=E10600&background=15151E00&center=true&vCenter=true&repeat=true&width=700&height=100&lines=hey%2C+im+Yousuf+Faizan;A+Full+Stack+%26+Gen+AI+Engineer;Embedded+Systems+%26+Low-Level+Enthusiast)](https://git.io/typing-svg)
 
-###  FULL STACK DEVELOPER — GEN-AI ENGINEERING
-
-*Lights out and away we go — I own features end-to-end: brief, build, deploy, chequered flag.*
+*Lights out and away we go - I own features end-to-end: brief, build, deploy, chequered flag.*
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/PIT_WALL-LinkedIn-15151E?style=for-the-badge&logo=linkedin&logoColor=E10600)](https://linkedin.com/in/syedyousuffaizan
+[![LinkedIn](https://img.shields.io/badge/PIT_WALL-LinkedIn-15151E?style=for-the-badge&logo=linkedin&logoColor=E10600)](https://linkedin.com/in/syedyousuffaizan)
 [![Portfolio](https://img.shields.io/badge/GARAGE-Portfolio-15151E?style=for-the-badge&logo=vercel&logoColor=E10600)](https://yousuffaizan.com)
 [![Email](https://img.shields.io/badge/RADIO-Email-15151E?style=for-the-badge&logo=gmail&logoColor=E10600)](mailto:syedyousuffaizan@gmail.com)
 
@@ -32,23 +30,23 @@
 
 <br/>
 
-> **📻 TEAM RADIO:** *"Car feels good — pace is strong through the AI sector. Multimodal pipelines online, GPU inference stable. Box this lap for a debrief."*
+> **📻 TEAM RADIO:** *"Car feels good - pace is strong through the AI sector. Multimodal pipelines online, GPU inference stable. Box this lap for a debrief."*
 
 <br/>
 
 ## 🏁 DRIVER BIO
 
-Racing across the full stack — frontend, backend, and cloud infra — with a specialist line through **AI/LLM product engineering**: multimodal pipelines, document intelligence, RAG, and prompt engineering.
+Racing across the full stack - frontend, backend, and cloud infra - with a specialist line through **AI/LLM product engineering**: multimodal pipelines, document intelligence, RAG, and prompt engineering.
 
-I've sat on the pit wall directly with clients — scoping strategy, building the car, bringing it home — comfortable running the whole race weekend solo, without a dedicated DevOps or product crew.
+I've sat on the pit wall directly with clients - scoping strategy, building the car, bringing it home - comfortable running the whole race weekend solo, without a dedicated DevOps or product crew.
 
 <br/>
 
-## 🔧 CAR SETUP — TECH STACK
+## 🔧 CAR SETUP - TECH STACK
 
 <div align="center">
 
-**🔋 POWER UNIT — AI / GenAI**
+**🔋 POWER UNIT - AI / GenAI**
 
 ![LangChain](https://img.shields.io/badge/LangChain-15151E?style=flat-square&logo=langchain&logoColor=E10600)
 ![LangGraph](https://img.shields.io/badge/LangGraph-15151E?style=flat-square&logoColor=E10600)
@@ -56,27 +54,27 @@ I've sat on the pit wall directly with clients — scoping strategy, building th
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-15151E?style=flat-square&logoColor=E10600)
 ![Multimodal AI](https://img.shields.io/badge/Multimodal_AI_(VLMs)-15151E?style=flat-square&logoColor=E10600)
 
-**🏗️ CHASSIS — Languages**
+**🏗️ CHASSIS - Languages**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-15151E?style=flat-square&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-15151E?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-15151E?style=flat-square&logo=python&logoColor=3776AB)
 
-**🪶 AERO PACKAGE — Frontend**
+**🪶 AERO PACKAGE - Frontend**
 
 ![React](https://img.shields.io/badge/React-15151E?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-15151E?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-15151E?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 ![Three.js](https://img.shields.io/badge/Three.js-15151E?style=flat-square&logo=threedotjs&logoColor=white)
 
-**⚙️ GEARBOX — Backend**
+**⚙️ GEARBOX - Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-15151E?style=flat-square&logo=nodedotjs&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express-15151E?style=flat-square&logo=express&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-15151E?style=flat-square&logoColor=E10600)
 ![GraphQL](https://img.shields.io/badge/GraphQL-15151E?style=flat-square&logo=graphql&logoColor=E10098)
 
-**🛠️ PIT CREW — Data & Infra**
+**🛠️ PIT CREW - Data & Infra**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-15151E?style=flat-square&logo=mongodb&logoColor=47A248)
 ![Azure](https://img.shields.io/badge/Azure-15151E?style=flat-square&logo=microsoftazure&logoColor=0078D4)
@@ -90,18 +88,18 @@ I've sat on the pit wall directly with clients — scoping strategy, building th
 
 <br/>
 
-## 🏆 RACE RESULTS — FEATURED PROJECTS
+## 🏆 RACE RESULTS - FEATURED PROJECTS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🥇 P1 — Axiom
+### 🥇 P1 - Axiom
 **Multimodal AI Inference Pipeline**
 
 `Python` `TypeScript` `Next.js` `Three.js` `Modal` `Cloudflare R2`
 
-GPU inference pipeline processing video in near real-time — fusing **Qwen2.5-VL** (vision-language) with **DeepSeek V3** (LLM reasoning) into one multimodal analysis system.
+GPU inference pipeline processing video in near real-time - fusing **Qwen2.5-VL** (vision-language) with **DeepSeek V3** (LLM reasoning) into one multimodal analysis system.
 
 🟣 Streaming-first, browser-to-cloud uploads (R2)
 🟣 Real-time multimodal reasoning, video + language
@@ -112,7 +110,7 @@ GPU inference pipeline processing video in near real-time — fusing **Qwen2.5-V
 </td>
 <td width="50%" valign="top">
 
-### 🥈 P2 — SmartClause
+### 🥈 P2 - SmartClause
 **AI Document Intelligence Tool**
 
 `TypeScript` `React` `Node.js` `Express` `LLM`
@@ -131,7 +129,7 @@ AI-powered contract analysis app using **Mistral LLM APIs** to parse PDF/DOCX/TX
 
 <br/>
 
-## 📋 SEASON SUMMARY — EXPERIENCE
+## 📋 SEASON SUMMARY - EXPERIENCE
 
 <table>
 <tr><th>Round</th><th>Team</th><th>Result</th></tr>
@@ -155,7 +153,7 @@ Built a motion-driven platform (React, Three.js, GSAP) for a robotics brand, ful
 
 <br/>
 
-## 📡 TELEMETRY — GITHUB STATS
+## 📡 TELEMETRY - GITHUB STATS
 
 <div align="center">
 
@@ -168,11 +166,11 @@ Built a motion-driven platform (React, Three.js, GSAP) for a robotics brand, ful
 
 <br/>
 
-## 📻 BOX BOX — LET'S CONNECT
+## 📻 BOX BOX - LET'S CONNECT
 
 <div align="center">
 
-📍 **Bengaluru, Karnataka, India** — Home Grand Prix
+📍 **Bengaluru, Karnataka, India** - Home Grand Prix
 📧 syedyousuffaizan@gmail.com &nbsp;|&nbsp; 📱 +91 7349399250
 
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-15151E?style=for-the-badge&logo=linkedin&logoColor=E10600)](https://linkedin.com/in/your-handle)
