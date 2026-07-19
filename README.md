@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&weight=600&size=26&duration=2600&pause=900&color=E10600&background=15151E00&center=true&vCenter=true&repeat=true&width=900&height=70&lines=hey%2C+im+Yousuf+Faizan;A+Full+Stack+%26+Gen+AI+Engineer;Embedded+Systems+%26+Low-Level+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&weight=600&size=26&duration=2600&pause=900&color=E10600&background=15151E00&center=true&vCenter=true&repeat=true&width=900&height=70&lines=HEY%2C+IM+YOUSUF+FAIZAN;A+FULL+STACK+%26+GEN+AI+ENGINEER;EMBEDDED+SYSTEMS+%26+LOW-LEVEL+ENTHUSIAST)](https://git.io/typing-svg)
 
 *Lights out and away we go - I own features end-to-end: brief, build, deploy, chequered flag.*
 
