@@ -176,7 +176,7 @@ Built a motion-driven platform (React, Three.js, GSAP) for a robotics brand, ful
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-15151E?style=for-the-badge&logo=linkedin&logoColor=E10600)](https://linkedin.com/in/your-handle)
 [![Portfolio](https://img.shields.io/badge/Visit-Portfolio-15151E?style=for-the-badge&logo=vercel&logoColor=E10600)](https://your-portfolio.com)
 
-*Open to full-time drives and freelance race weekends in AI-integrated product engineering.*
+*Open to full-time freelance oppurtunites .*
 
 <br/>
 
