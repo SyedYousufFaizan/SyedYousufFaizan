@@ -105,7 +105,7 @@ GPU inference pipeline processing video in near real-time - fusing **Qwen2.5-VL*
 🟣 Real-time multimodal reasoning, video + language
 🟣 Live 3D visualization layer (Three.js)
 
-**[→ View Repo](https://github.com/syedyousuffaizan/axiom)**
+**[→ View Repo](https://github.com/syedyousuffaizan/axiom-backend)**
 
 </td>
 <td width="50%" valign="top">
