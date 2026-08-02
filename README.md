@@ -1,5 +1,15 @@
 <div align="center">
-  <img src="./assets/header.svg" alt="Yousuf Faizan — Syed Yousuf Faizan (he/him) · Full stack &amp; Gen AI engineer" width="100%" />
+  <img src="./assets/header.svg" alt="Yousuf Faizan — Syed Yousuf Faizan · Full stack &amp; Gen AI engineer" width="100%" />
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://linkedin.com/in/SyedYousufFaizan" target="_blank"><img src="./assets/badge_linkedin.svg" alt="LinkedIn" height="32" /></a>
+  &nbsp;
+  <a href="https://x.com/retro_nerve" target="_blank"><img src="./assets/badge_x.svg" alt="X (Twitter)" height="32" /></a>
+  &nbsp;
+  <a href="https://yousuffaizan.com" target="_blank"><img src="./assets/badge_portfolio.svg" alt="Portfolio" height="32" /></a>
 </div>
 
 <br />
@@ -18,7 +28,100 @@
 
 ### `// stack`
 
-`LangChain` &nbsp;`LangGraph` &nbsp;`LLMs / RAG` &nbsp;`Multimodal AI (VLMs)` &nbsp;·&nbsp; `TypeScript` &nbsp;`JavaScript` &nbsp;`Python` &nbsp;·&nbsp; `React` &nbsp;`Next.js` &nbsp;`Tailwind CSS` &nbsp;`Three.js` &nbsp;·&nbsp; `Node.js` &nbsp;`Express` &nbsp;`REST APIs` &nbsp;`GraphQL` &nbsp;·&nbsp; `MongoDB` &nbsp;`Azure` &nbsp;`Cloudflare R2` &nbsp;`Modal GPU` &nbsp;`Vercel`
+> Tools and technologies that I work with and specialize in
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Three.js" />
+      <br>Three.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
+      <br>GraphQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="REST API" />
+      <br>REST API
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+      <br>CSS3
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
+      <br>Azure
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" />
+      <br>Cloudflare
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+      <br>Vercel
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="CI/CD" />
+      <br>CI / CD
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="LangChain / RAG" />
+      <br>LangChain / RAG
+    </td>
+  </tr>
+</table>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -46,7 +149,7 @@
 
 <div align="center">
 
-**[ github ](https://github.com/SyedYousufFaizan)** &nbsp;·&nbsp; **[ email ](mailto:syedyousuffaizan@gmail.com)** &nbsp;·&nbsp; **[ linkedin ](https://linkedin.com/in/syedyousuffaizan)** &nbsp;·&nbsp; **[ portfolio ](https://yousuffaizan.com)**
+**[ github ](https://github.com/SyedYousufFaizan)** &nbsp;·&nbsp; **[ x / twitter ](https://x.com/retro_nerve)** &nbsp;·&nbsp; **[ linkedin ](https://linkedin.com/in/SyedYousufFaizan)** &nbsp;·&nbsp; **[ email ](mailto:syedyousuffaizan@gmail.com)** &nbsp;·&nbsp; **[ portfolio ](https://yousuffaizan.com)**
 
 </div>
 

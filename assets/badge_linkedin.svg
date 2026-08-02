@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 36" width="160" height="36">
+  <rect x="2" y="2" width="156" height="32" rx="4" fill="#0f0709" stroke="#dc2626" stroke-width="2"/>
+  <!-- Corner Pixel Ticks -->
+  <rect x="4" y="4" width="4" height="4" fill="#ef4444"/>
+  <rect x="152" y="4" width="4" height="4" fill="#ef4444"/>
+  <rect x="4" y="28" width="4" height="4" fill="#ef4444"/>
+  <rect x="152" y="28" width="4" height="4" fill="#ef4444"/>
+  <!-- Pixel LinkedIn Icon -->
+  <g fill="#ef4444">
+    <rect x="16" y="10" width="16" height="16" fill="#261014" stroke="#ef4444" stroke-width="1"/>
+    <rect x="20" y="13" width="2" height="2" fill="#ef4444"/>
+    <rect x="20" y="17" width="2" height="6" fill="#ef4444"/>
+    <rect x="24" y="17" width="2" height="6" fill="#ef4444"/>
+    <rect x="26" y="17" width="3" height="2" fill="#ef4444"/>
+    <rect x="27" y="19" width="2" height="4" fill="#ef4444"/>
+  </g>
+  <!-- Text -->
+  <text x="44" y="23" font-family="'Courier New', monospace" font-size="13" font-weight="700" letter-spacing="1.5" fill="#ffffff">LINKEDIN</text>
+</svg>
