@@ -134,7 +134,7 @@
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-## `// off the keyboard`
+## `// off the grid`
 
 `Embedded Systems` &nbsp;·&nbsp; `Formula 1` &nbsp;·&nbsp; `Low Level Programming` &nbsp;·&nbsp; `Forza Ferrari`
 
