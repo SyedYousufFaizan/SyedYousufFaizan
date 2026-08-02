@@ -146,8 +146,6 @@
 ### `// telemetry`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SyedYousufFaizan&show_icons=true&hide_border=true&title_color=dc2626&icon_color=ef4444&text_color=ffffff&bg_color=0f0709" height="165" alt="GitHub Stats" />
-  &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedYousufFaizan&background=0f0709&border=dc2626&stroke=ef4444&ring=dc2626&fire=ef4444&currStreakLabel=dc2626&currStreakNum=ffffff&sideNums=ffffff&sideLabels=dc2626&dates=b91c1c&hide_border=true" height="165" alt="GitHub Streak" />
 </div>
 
