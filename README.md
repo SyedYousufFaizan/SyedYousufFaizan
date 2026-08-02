@@ -143,6 +143,22 @@
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
+### `// telemetry`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SyedYousufFaizan&show_icons=true&hide_border=true&title_color=dc2626&icon_color=ef4444&text_color=ffffff&bg_color=0f0709" height="165" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedYousufFaizan&background=0f0709&border=dc2626&stroke=ef4444&ring=dc2626&fire=ef4444&currStreakLabel=dc2626&currStreakNum=ffffff&sideNums=ffffff&sideLabels=dc2626&dates=b91c1c&hide_border=true" height="165" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SyedYousufFaizan&bg_color=0f0709&color=ef4444&line=dc2626&point=ffffff&area=true&hide_border=true" width="100%" alt="Commit Activity Graph" />
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
 ### `// find me`
 
 <div align="center">
@@ -154,12 +170,3 @@
 <br />
 
 <div align="center"><sub>designed by hand · inspired by <a href="https://github.com/lucenity0">lucenity0</a> · red + pixels</sub></div>
-
-<!--
-  OPTIONAL — contribution stats.
-  Uncomment the block below if you want live stats.
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SyedYousufFaizan&show_icons=true&hide_border=true&title_color=dc2626&icon_color=ef4444&text_color=ffffff&bg_color=0f0709" width="58%" alt="" />
-</div>
--->
