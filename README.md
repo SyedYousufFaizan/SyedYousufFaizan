@@ -32,91 +32,91 @@
 
 <table>
   <tr>
-    <td align="center" width="105">
-      <img src="https://img.shields.io/badge/C-14090A?style=for-the-badge&logo=c&logoColor=ef4444" height="36" alt="C" />
-      <br><sub><font color="#fca5a5">C</font></sub>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+      <br>C
     </td>
-    <td align="center" width="105">
-      <img src="https://img.shields.io/badge/Rust-14090A?style=for-the-badge&logo=rust&logoColor=ef4444" height="36" alt="Rust" />
-      <br><sub><font color="#fca5a5">Rust</font></sub>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
+      <br>Rust
     </td>
-    <td align="center" width="105">
-      <img src="https://img.shields.io/badge/Python-14090A?style=for-the-badge&logo=python&logoColor=ef4444" height="36" alt="Python" />
-      <br><sub><font color="#fca5a5">Python</font></sub>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
+      <br>Python
     </td>
-    <td align="center" width="105">
-      <img src="https://img.shields.io/badge/TypeScript-14090A?style=for-the-badge&logo=typescript&logoColor=ef4444" height="36" alt="TypeScript" />
-      <br><sub><font color="#fca5a5">TypeScript</font></sub>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
     </td>
-    <td align="center" width="105">
-      <img src="https://img.shields.io/badge/JavaScript-14090A?style=for-the-badge&logo=javascript&logoColor=ef4444" height="36" alt="JavaScript" />
-      <br><sub><font color="#fca5a5">JavaScript</font></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="105">
-      <img src="https://img.shields.io/badge/React-14090A?style=for-the-badge&logo=react&logoColor=ef4444" height="36" alt="React" />
-      <br><sub><font color="#fca5a5">React</font></sub>
-    </td>
-    <td align="center" width="105">
-      <img src="https://img.shields.io/badge/Next.js-14090A?style=for-the-badge&logo=nextdotjs&logoColor=ef4444" height="36" alt="Next.js" />
-      <br><sub><font color="#fca5a5">Next.js</font></sub>
-    </td>
-    <td align="center" width="105">
-      <img src="https://img.shields.io/badge/Tailwind-14090A?style=for-the-badge&logo=tailwindcss&logoColor=ef4444" height="36" alt="Tailwind" />
-      <br><sub><font color="#fca5a5">Tailwind</font></sub>
-    </td>
-    <td align="center" width="105">
-      <img src="https://img.shields.io/badge/Three.js-14090A?style=for-the-badge&logo=threedotjs&logoColor=ef4444" height="36" alt="Three.js" />
-      <br><sub><font color="#fca5a5">Three.js</font></sub>
-    </td>
-    <td align="center" width="105">
-      <img src="https://img.shields.io/badge/HTML5-14090A?style=for-the-badge&logo=html5&logoColor=ef4444" height="36" alt="HTML / CSS" />
-      <br><sub><font color="#fca5a5">HTML / CSS</font></sub>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
     </td>
   </tr>
   <tr>
-    <td align="center" width="105">
-      <img src="https://img.shields.io/badge/Node.js-14090A?style=for-the-badge&logo=nodedotjs&logoColor=ef4444" height="36" alt="Node.js" />
-      <br><sub><font color="#fca5a5">Node.js</font></sub>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
     </td>
-    <td align="center" width="105">
-      <img src="https://img.shields.io/badge/Express-14090A?style=for-the-badge&logo=express&logoColor=ef4444" height="36" alt="Express" />
-      <br><sub><font color="#fca5a5">Express</font></sub>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <br>Next.js
     </td>
-    <td align="center" width="105">
-      <img src="https://img.shields.io/badge/GraphQL-14090A?style=for-the-badge&logo=graphql&logoColor=ef4444" height="36" alt="GraphQL" />
-      <br><sub><font color="#fca5a5">GraphQL</font></sub>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
     </td>
-    <td align="center" width="105">
-      <img src="https://img.shields.io/badge/REST_API-14090A?style=for-the-badge&logo=postman&logoColor=ef4444" height="36" alt="REST API" />
-      <br><sub><font color="#fca5a5">REST API</font></sub>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Three.js" />
+      <br>Three.js
     </td>
-    <td align="center" width="105">
-      <img src="https://img.shields.io/badge/MongoDB-14090A?style=for-the-badge&logo=mongodb&logoColor=ef4444" height="36" alt="MongoDB" />
-      <br><sub><font color="#fca5a5">MongoDB</font></sub>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML / CSS" />
+      <br>HTML / CSS
     </td>
   </tr>
   <tr>
-    <td align="center" width="105">
-      <img src="https://img.shields.io/badge/Cloudflare-14090A?style=for-the-badge&logo=cloudflare&logoColor=ef4444" height="36" alt="Cloudflare" />
-      <br><sub><font color="#fca5a5">Cloudflare</font></sub>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
     </td>
-    <td align="center" width="105">
-      <img src="https://img.shields.io/badge/Docker-14090A?style=for-the-badge&logo=docker&logoColor=ef4444" height="36" alt="Docker" />
-      <br><sub><font color="#fca5a5">Docker</font></sub>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      <br>Express
     </td>
-    <td align="center" width="105">
-      <img src="https://img.shields.io/badge/Git-14090A?style=for-the-badge&logo=git&logoColor=ef4444" height="36" alt="Git" />
-      <br><sub><font color="#fca5a5">Git</font></sub>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
+      <br>GraphQL
     </td>
-    <td align="center" width="105">
-      <img src="https://img.shields.io/badge/LangChain-14090A?style=for-the-badge&logo=langchain&logoColor=ef4444" height="36" alt="LangChain" />
-      <br><sub><font color="#fca5a5">LangChain</font></sub>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="REST API" />
+      <br>REST API
     </td>
-    <td align="center" width="105">
-      <img src="https://img.shields.io/badge/RAG_/_LLMs-14090A?style=for-the-badge&logo=openai&logoColor=ef4444" height="36" alt="LLMs / RAG" />
-      <br><sub><font color="#fca5a5">LLMs / RAG</font></sub>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" />
+      <br>Cloudflare
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="LangChain" />
+      <br>LangChain
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="LLMs / RAG" />
+      <br>LLMs / RAG
     </td>
   </tr>
 </table>
