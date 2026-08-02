@@ -23,7 +23,7 @@
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-### `// stack`
+## `// stack`
 
 > Tools and technologies that I work with and specialize in
 
@@ -120,27 +120,27 @@
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-### `// building`
+## `// building`
 
-**Axiom** — Multimodal AI Inference Pipeline processing video in near real-time. Fuses Qwen2.5-VL with DeepSeek V3 into a live streaming multimodal reasoning system with 3D visualization.
+<font size="4"><b>Axiom</b> — Multimodal AI Inference Pipeline processing video in near real-time. Fuses Qwen2.5-VL with DeepSeek V3 into a live streaming multimodal reasoning system with 3D visualization.</font>
 <br />
-<sub>`Python` · `TypeScript` · `Next.js` · `Three.js` · `Modal GPU` · `Cloudflare R2`</sub>
+`Python` · `TypeScript` · `Next.js` · `Three.js` · `Modal GPU` · `Cloudflare R2`
 
 <br />
 
-**SmartClause** — AI Document Intelligence tool for contract analysis. Uses Mistral LLM APIs to parse PDF/DOCX/TXT and auto-classify clause risk into severity tiers.
+<font size="4"><b>SmartClause</b> — AI Document Intelligence tool for contract analysis. Uses Mistral LLM APIs to parse PDF/DOCX/TXT and auto-classify clause risk into severity tiers.</font>
 <br />
-<sub>`TypeScript` · `React` · `Node.js` · `Express` · `LLMs`</sub>
+`TypeScript` · `React` · `Node.js` · `Express` · `LLMs`
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-### `// off the keyboard`
+## `// off the keyboard`
 
 `Embedded Systems` &nbsp;·&nbsp; `Formula 1` &nbsp;·&nbsp; `Low Level Programming` &nbsp;·&nbsp; `Forza Ferrari`
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-### `// telemetry`
+## `// telemetry`
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedYousufFaizan&background=0f0709&border=dc2626&stroke=ef4444&ring=dc2626&fire=ef4444&currStreakLabel=dc2626&currStreakNum=ffffff&sideNums=ffffff&sideLabels=dc2626&dates=b91c1c&hide_border=true" height="165" alt="GitHub Streak" />
@@ -154,7 +154,7 @@
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-### `// find me`
+## `// find me`
 
 <div align="center">
 
