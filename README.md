@@ -155,6 +155,8 @@
 <font size="4"><b>SmartClause</b> — AI Document Intelligence tool for contract analysis. Uses Mistral LLM APIs to parse PDF/DOCX/TXT and auto-classify clause risk into severity tiers.</font>
 <br />
 `TypeScript` · `React` · `Node.js` · `Express` · `LLMs`
+<br />
+[→ Try Live Demo](https://smartclause.vercel.app)
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
