@@ -153,7 +153,7 @@
 
 <br />
 
-<div align="center"><sub>designed &amp; built by hand — no templates, no trackers · red + pixels</sub></div>
+<div align="center"><sub>designed by hand · inspired by <a href="https://github.com/lucenity0">lucenity0</a> · red + pixels</sub></div>
 
 <!--
   OPTIONAL — contribution stats.
