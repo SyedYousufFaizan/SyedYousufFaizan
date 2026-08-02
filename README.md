@@ -14,14 +14,12 @@
 
 <br />
 
-```text
-~ $ cat about.txt
+<pre><font size="3.5">~ $ cat about.txt
 ──────────────────────────────────────────────────
-  full Stack & Gen AI Rngineer  ·  Bengaluru, In  ·  he/him
-  Backend & multimodal AI systems by day;
-  Embedded systems & low-level engineering the rest of the time.
-──────────────────────────────────────────────────
-```
+  Full Stack &amp; Gen AI Engineer  ·  Bengaluru, IN  ·  he/him
+  Backend &amp; multimodal AI systems by day;
+  Embedded systems &amp; low-level engineering the rest of the time.
+──────────────────────────────────────────────────</font></pre>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
