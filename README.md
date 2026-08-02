@@ -139,7 +139,7 @@
 
 ### `// off the keyboard`
 
-`Embedded Systems` &nbsp;·&nbsp; `Formula 1` &nbsp;·&nbsp; `Graphic Design` &nbsp;·&nbsp; `Music`
+`Embedded Systems` &nbsp;·&nbsp; `Formula 1` &nbsp;·&nbsp; `Low Level Programming` &nbsp;·&nbsp; `Forza Ferrari`
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
