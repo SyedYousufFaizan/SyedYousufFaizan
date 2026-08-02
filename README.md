@@ -17,10 +17,9 @@
 ```text
 ~ $ cat about.txt
 ──────────────────────────────────────────────────
-  full stack & gen ai engineer  ·  bengaluru, in  ·  he/him
-  i turn rough ideas into things that actually run —
-  frontends, backends & multimodal ai systems by day;
-  embedded systems & low-level engineering the rest of the time.
+  full Stack & Gen AI Rngineer  ·  Bengaluru, In  ·  he/him
+  Backend & multimodal AI systems by day;
+  Embedded systems & low-level engineering the rest of the time.
 ──────────────────────────────────────────────────
 ```
 

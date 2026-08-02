@@ -1,18 +1,73 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 22" width="880" height="22" font-family="'Courier New', ui-monospace, monospace" role="img" aria-label="section divider">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 28" width="880" height="28" role="img" aria-label="F1 Car Divider">
   <defs>
     <style>
-      .blk { opacity: .18; }
-      @keyframes slide { 0% { transform: translateX(0); opacity:.9 } 92% { opacity:.9 } 100% { transform: translateX(848px); opacity:.9 } }
+      .car-container { transform: translateX(-60px); }
+      @keyframes f1-race {
+        0% { transform: translateX(-60px); }
+        90% { transform: translateX(880px); }
+        100% { transform: translateX(880px); }
+      }
+      @keyframes spark {
+        0%, 100% { opacity: 0.4; transform: scaleX(0.8); }
+        50% { opacity: 1; transform: scaleX(1.3); }
+      }
       @media (prefers-reduced-motion: no-preference) {
-        .blk { opacity: .9; animation: slide 3.6s linear infinite; }
+        .car-container { animation: f1-race 3.5s cubic-bezier(0.4, 0.0, 0.2, 1) infinite; }
+        .spark-blur { animation: spark 0.2s ease-in-out infinite; }
       }
     </style>
   </defs>
-  <!-- dashed baseline -->
-  <line x1="8" y1="11" x2="872" y2="11" stroke="#991b1b" stroke-width="2" stroke-dasharray="2 6"/>
-  <!-- end ticks -->
-  <line x1="8" y1="4" x2="8" y2="18" stroke="#ef4444" stroke-width="2"/>
-  <line x1="872" y1="4" x2="872" y2="18" stroke="#ef4444" stroke-width="2"/>
-  <!-- sliding block -->
-  <rect class="blk" x="8" y="6" width="24" height="10" rx="2" fill="#ef4444"/>
+
+  <!-- Track Asphalt Line -->
+  <line x1="0" y1="22" x2="880" y2="22" stroke="#4a151b" stroke-width="2"/>
+  <line x1="0" y1="22" x2="880" y2="22" stroke="#dc2626" stroke-width="1.5" stroke-dasharray="6 8" opacity="0.6"/>
+
+  <!-- Checkered Finish Line (Right End) -->
+  <g transform="translate(864, 10)">
+    <rect x="0" y="0" width="4" height="4" fill="#ffffff"/>
+    <rect x="4" y="0" width="4" height="4" fill="#111111"/>
+    <rect x="8" y="0" width="4" height="4" fill="#ffffff"/>
+    <rect x="0" y="4" width="4" height="4" fill="#111111"/>
+    <rect x="4" y="4" width="4" height="4" fill="#ffffff"/>
+    <rect x="8" y="4" width="4" height="4" fill="#111111"/>
+    <rect x="0" y="8" width="4" height="4" fill="#ffffff"/>
+    <rect x="4" y="8" width="4" height="4" fill="#111111"/>
+    <rect x="8" y="8" width="4" height="4" fill="#ffffff"/>
+  </g>
+
+  <!-- Animated F1 Car -->
+  <g class="car-container">
+    <!-- Speed Flame / Exhaust Trail -->
+    <rect class="spark-blur" x="-22" y="15" width="18" height="2" fill="#ff4d4d" rx="1"/>
+    <rect class="spark-blur" x="-12" y="16" width="10" height="1.5" fill="#ffaa00" rx="1"/>
+
+    <!-- F1 Car Silhouette & Body -->
+    <!-- Rear Wing -->
+    <rect x="0" y="5" width="10" height="2" fill="#ffffff" rx="0.5"/>
+    <rect x="0" y="3" width="2" height="9" fill="#dc2626"/>
+    <rect x="8" y="3" width="2" height="9" fill="#dc2626"/>
+    <rect x="4" y="7" width="2" height="6" fill="#111111"/>
+
+    <!-- Body Chasis -->
+    <path d="M 5 11 L 14 7 L 24 7 L 38 10 L 48 13 L 52 14 L 5 14 Z" fill="#e10600"/>
+    <path d="M 12 12 L 36 12 L 44 14 L 12 14 Z" fill="#b91c1c"/>
+
+    <!-- Cockpit & Driver Helmet -->
+    <rect x="21" y="8" width="7" height="4" fill="#111111" rx="1"/>
+    <circle cx="24" cy="8" r="2.2" fill="#ffffff"/>
+    <rect x="17" y="6" width="4" height="3" fill="#800000"/>
+
+    <!-- Nosecone & Front Wing -->
+    <path d="M 38 11 L 48 13 L 52 14 L 38 14 Z" fill="#dc2626"/>
+    <rect x="46" y="14" width="7" height="2" fill="#ffffff"/>
+    <rect x="52" y="12" width="2" height="5" fill="#e10600"/>
+
+    <!-- Rear Tire -->
+    <circle cx="10" cy="16" r="5" fill="#111111" stroke="#ef4444" stroke-width="1"/>
+    <circle cx="10" cy="16" r="2" fill="#ffffff"/>
+
+    <!-- Front Tire -->
+    <circle cx="42" cy="16" r="4.5" fill="#111111" stroke="#ef4444" stroke-width="1"/>
+    <circle cx="42" cy="16" r="1.8" fill="#ffffff"/>
+  </g>
 </svg>
