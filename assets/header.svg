@@ -58,7 +58,6 @@
 <text class="boot d1" x="60" y="102" font-size="15" letter-spacing="1" fill="#dc2626">&#62; whoami</text>
 <text class="boot d1" x="58" y="156" font-size="58" font-weight="700" letter-spacing="1" fill="#ffffff">Yousuf Faizan</text>
 <text class="boot d2" x="61" y="186" font-size="21" font-weight="700" letter-spacing="1" fill="#ef4444">@syedyousuffaizan</text>
-<text class="boot d2" x="209" y="186" font-size="13" letter-spacing="1" fill="#b91c1c">he/him</text>
 <g class="boot d3">
 <text x="62" y="207" font-size="15" letter-spacing=".5" fill="#fecaca">Tinkerer &#183; Full stack &amp; Gen AI engineer</text>
 <text x="62" y="227" font-size="15" letter-spacing=".5" fill="#fecaca">Low Level Systems engineering</text>
