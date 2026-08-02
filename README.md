@@ -14,7 +14,7 @@
 
 <br />
 
-<pre><font size="3.5">~ $ cat about.txt
+<pre><font size="4.5">~ $ cat about.txt
 ──────────────────────────────────────────────────
   Full Stack &amp; Gen AI Engineer  ·  Bengaluru, IN  ·  he/him
   Backend &amp; multimodal AI systems by day;
