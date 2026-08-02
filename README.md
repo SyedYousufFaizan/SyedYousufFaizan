@@ -142,11 +142,11 @@
 
 ## `// telemetry`
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedYousufFaizan&background=0f0709&border=dc2626&stroke=ef4444&ring=dc2626&fire=ef4444&currStreakLabel=dc2626&currStreakNum=ffffff&sideNums=ffffff&sideLabels=dc2626&dates=b91c1c&hide_border=true" height="165" alt="GitHub Streak" />
-</div>
+</div> -->
 
-<br />
+<!-- <br /> -->
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SyedYousufFaizan&bg_color=0f0709&color=ef4444&line=dc2626&point=ffffff&area=true&hide_border=true" width="100%" alt="Commit Activity Graph" />
