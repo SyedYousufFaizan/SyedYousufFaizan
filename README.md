@@ -147,6 +147,8 @@
 <font size="4"><b>Axiom</b> — Multimodal AI Inference Pipeline processing video in near real-time. Fuses Qwen2.5-VL with DeepSeek V3 into a live streaming multimodal reasoning system with 3D visualization.</font>
 <br />
 `Python` · `TypeScript` · `Next.js` · `Three.js` · `Modal GPU` · `Cloudflare R2`
+<br />
+[→ Read the complete blog post article](https://yousuffaizan.com/blog/axiom)
 
 <br />
 
