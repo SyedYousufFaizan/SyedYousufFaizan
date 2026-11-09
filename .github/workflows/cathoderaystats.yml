@@ -1,0 +1,25 @@
+name: CathodeRayStats
+
+on:
+  schedule:
+    - cron: '23 */6 * * *' # Every 6 hours
+  workflow_dispatch:      # Manual trigger button in GitHub Actions tab
+
+permissions:
+  contents: write         # Allows the action to commit & push the updated SVG
+
+jobs:
+  cathoderaystats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update CathodeRayStats
+        uses: Cheese-Cheese/CathodeRayStats@v1
+        with:
+          username: ${{ github.repository_owner }}
+          tv-color: charcoal      # charcoal, walnut, beige, mustard, crimson, navy, or #hex
+          screen-color: white     # white, yellow, green, cyan, magenta, orange, or #hex
+          knob-type: line         # line or dot
+          show-antennas: false    # Set to true for rabbit-ear antennas
