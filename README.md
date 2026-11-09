@@ -175,7 +175,9 @@
 <!-- <br /> -->
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SyedYousufFaizan&bg_color=0f0709&color=ef4444&line=dc2626&point=ffffff&area=true&hide_border=true" width="100%" alt="Commit Activity Graph" />
+ <p align="center">
+  <img src="./dist/retro-tv.svg" alt="CathodeRayStats Widget" width="650" />
+</p>
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
