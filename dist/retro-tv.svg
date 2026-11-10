@@ -37,20 +37,20 @@
       /* Dual CRT V-Sync Tracking Bars Roll */
       @keyframes vsync-roll-1 {
         0% { transform: translateY(0); }
-        100% { transform: translateY(468px); }
+        100% { transform: translateY(446px); }
       }
 
       @keyframes vsync-roll-2 {
         0% { transform: translateY(0); }
-        100% { transform: translateY(504px); }
+        100% { transform: translateY(528px); }
       }
 
       .vsync-bar-1 {
-        animation: vsync-roll-1 8.47s linear -0.56s infinite;
+        animation: vsync-roll-1 9.46s linear -0.68s infinite;
       }
 
       .vsync-bar-2 {
-        animation: vsync-roll-2 13.98s linear -6.70s infinite;
+        animation: vsync-roll-2 16.70s linear -9.21s infinite;
       }
 
       
@@ -285,7 +285,7 @@
       <g transform="translate(68, 348)">
         <text x="0" y="24" class="crt-text" fill="#94A3B8" font-size="22" font-weight="bold">FOLLOWERS</text>
         <line x1="130" y1="18" x2="330" y2="18" stroke="#94A3B8" stroke-dasharray="3,4" stroke-opacity="0.35" />
-        <text x="480" y="26" class="crt-text glow" fill="#FFFFFF" font-size="34" font-weight="bold" text-anchor="end">14</text>
+        <text x="480" y="26" class="crt-text glow" fill="#FFFFFF" font-size="34" font-weight="bold" text-anchor="end">15</text>
       </g>
 
       <!-- Bottom Signal Banner -->
@@ -481,8 +481,8 @@
     </g>
 
     <!-- DUAL CRT V-SYNC TRACKING BARS (Layered above stats/text, below glass glare & CRT filters) -->
-    <rect class="vsync-bar-1" x="46" y="-12" width="526" height="28" fill="rgba(0, 0, 0, 0.15)" pointer-events="none" />
-    <rect class="vsync-bar-2" x="46" y="-48" width="526" height="46" fill="rgba(0, 0, 0, 0.15)" pointer-events="none" />
+    <rect class="vsync-bar-1" x="46" y="10" width="526" height="17" fill="rgba(0, 0, 0, 0.15)" pointer-events="none" />
+    <rect class="vsync-bar-2" x="46" y="-72" width="526" height="58" fill="rgba(0, 0, 0, 0.15)" pointer-events="none" />
 
     <!-- Light Static Grain Filter Overlay -->
     <rect x="46" y="44" width="526" height="412" filter="url(#crt-static)" opacity="0.6" pointer-events="none" />
