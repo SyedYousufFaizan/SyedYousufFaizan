@@ -37,20 +37,20 @@
       /* Dual CRT V-Sync Tracking Bars Roll */
       @keyframes vsync-roll-1 {
         0% { transform: translateY(0); }
-        100% { transform: translateY(472px); }
+        100% { transform: translateY(450px); }
       }
 
       @keyframes vsync-roll-2 {
         0% { transform: translateY(0); }
-        100% { transform: translateY(504px); }
+        100% { transform: translateY(496px); }
       }
 
       .vsync-bar-1 {
-        animation: vsync-roll-1 8.05s linear -1.34s infinite;
+        animation: vsync-roll-1 9.77s linear -1.63s infinite;
       }
 
       .vsync-bar-2 {
-        animation: vsync-roll-2 16.24s linear -8.15s infinite;
+        animation: vsync-roll-2 12.33s linear -5.01s infinite;
       }
 
       
@@ -481,8 +481,8 @@
     </g>
 
     <!-- DUAL CRT V-SYNC TRACKING BARS (Layered above stats/text, below glass glare & CRT filters) -->
-    <rect class="vsync-bar-1" x="46" y="-16" width="526" height="30" fill="rgba(0, 0, 0, 0.15)" pointer-events="none" />
-    <rect class="vsync-bar-2" x="46" y="-48" width="526" height="46" fill="rgba(0, 0, 0, 0.15)" pointer-events="none" />
+    <rect class="vsync-bar-1" x="46" y="6" width="526" height="19" fill="rgba(0, 0, 0, 0.15)" pointer-events="none" />
+    <rect class="vsync-bar-2" x="46" y="-40" width="526" height="42" fill="rgba(0, 0, 0, 0.15)" pointer-events="none" />
 
     <!-- Light Static Grain Filter Overlay -->
     <rect x="46" y="44" width="526" height="412" filter="url(#crt-static)" opacity="0.6" pointer-events="none" />
